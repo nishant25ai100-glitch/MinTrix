@@ -4,6 +4,26 @@
 > **Target Organization:** MOIL Limited (Ministry of Steel, Government of India)  
 > **Category:** Software | **Theme:** Space Technology  
 
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn)
+![Status](https://img.shields.io/badge/status-active%20development-brightgreen)
+
+---
+
+## Team MinTrix
+
+| Name |
+|---|
+| Nishant Garg |
+| Kartik Ranawat |
+| Dhruv Raj Jain |
+| Bhavya Dixit |
+| Bhavya Sharma |
+| Megha Vaishnav |
+
 ---
 
 ## 1. Project Overview
@@ -69,7 +89,7 @@ All models are genuinely trained using scikit-learn on a calibrated Central Indi
 | **Production Forecaster** | `GradientBoostingRegressor` (w/ Lags) | **\(R^2 = 0.9815\)**<br/>MAE = 27.2 TPD | • Target Output Plan: **49.3%**<br/>• 7-Day Rolling Output: **17.4%**<br/>• Daily Rainfall: **10.5%**<br/>• Fleet Availability: **10.3%** |
 | **Shortfall Risk Classifier** | `RandomForestClassifier` (Balanced) | **Accuracy = 73.15%**<br/>Macro F1 = 0.6955 | • Total Equipment Downtime: **28.6%**<br/>• Fleet Utilization Deficit: **13.1%**<br/>• Shift Labor Deficit: **9.6%** |
 
-Full model specifications are documented in [`ml/MODEL_CARD.md`](file:///Users/anuj/Desktop/PS_26009/ml/MODEL_CARD.md).
+Full model specifications are documented in [`ml/MODEL_CARD.md`](ml/MODEL_CARD.md).
 
 ---
 
