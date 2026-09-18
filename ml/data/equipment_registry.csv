@@ -1,0 +1,71 @@
+equipment_id,site_id,site_name,equipment_type,model_make,status,failure_risk,uptime_pct,total_operating_hours,hydraulic_pressure_bar,engine_oil_temp_c,vibration_rms_mms,last_maintenance_date,days_since_maintenance
+BAL-EXC-01,balaghat,Balaghat Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,99.5,4647,264.9,88.9,3.61,2026-08-23,21
+BAL-EXC-02,balaghat,Balaghat Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Under Watch),Moderate,78.7,14386,271.7,87.1,2.79,2026-07-09,66
+BAL-EXC-03,balaghat,Balaghat Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,86.1,7022,252.8,89.1,5.08,2026-08-26,18
+BAL-DMP-04,balaghat,Balaghat Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,89.7,7283,269.1,92.4,3.37,2026-08-15,29
+BAL-DMP-05,balaghat,Balaghat Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,88.3,13451,262.0,85.3,3.32,2026-09-07,6
+BAL-DMP-06,balaghat,Balaghat Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,86.9,2279,234.6,70.9,4.76,2026-09-03,10
+BAL-DMP-07,balaghat,Balaghat Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,83.5,8099,264.9,92.2,3.07,2026-07-24,51
+BAL-DMP-08,balaghat,Balaghat Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,81.8,13048,245.2,87.7,3.89,2026-08-16,28
+BAL-DMP-09,balaghat,Balaghat Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,88.7,5328,252.1,92.5,3.42,2026-08-24,20
+BAL-DRL-10,balaghat,Balaghat Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,96.9,3811,238.6,93.2,4.57,2026-07-15,60
+BAL-DRL-11,balaghat,Balaghat Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,97.4,7390,246.4,79.4,3.39,2026-08-06,38
+BAL-DRL-12,balaghat,Balaghat Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,80.8,11779,263.4,81.8,2.55,2026-08-10,34
+BAL-CRU-13,balaghat,Balaghat Mine,Primary Ore Crusher,Metso Nordberg C130,Operational (Healthy),Low,98.0,12866,236.4,76.5,3.7,2026-07-05,70
+BAL-PMP-14,balaghat,Balaghat Mine,Mine Dewatering Pump,Kirloskar High-Head Submersible,Operational (Healthy),Low,91.6,11183,258.5,93.6,0.93,2026-08-02,42
+DON-EXC-01,dongri_buzurg,Dongri Buzurg Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,81.4,8121,242.9,85.0,1.81,2026-07-08,67
+DON-EXC-02,dongri_buzurg,Dongri Buzurg Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,87.9,6198,213.1,84.1,3.64,2026-07-18,57
+DON-EXC-03,dongri_buzurg,Dongri Buzurg Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,94.8,6325,251.4,80.2,3.33,2026-07-14,61
+DON-DMP-04,dongri_buzurg,Dongri Buzurg Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,92.9,7791,238.2,89.2,5.1,2026-08-26,18
+DON-DMP-05,dongri_buzurg,Dongri Buzurg Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,99.5,9774,234.7,87.3,1.74,2026-07-08,67
+DON-DMP-06,dongri_buzurg,Dongri Buzurg Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,95.6,4036,233.9,81.4,4.09,2026-07-10,65
+DON-DMP-07,dongri_buzurg,Dongri Buzurg Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,86.1,9379,268.0,80.6,2.96,2026-07-28,47
+DON-DMP-08,dongri_buzurg,Dongri Buzurg Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,94.8,6230,271.4,95.1,3.19,2026-07-30,45
+DON-DMP-09,dongri_buzurg,Dongri Buzurg Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,83.6,3840,244.5,87.2,3.55,2026-07-06,69
+DON-DRL-10,dongri_buzurg,Dongri Buzurg Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Under Watch),Moderate,76.5,11917,255.6,78.0,2.85,2026-07-15,60
+DON-DRL-11,dongri_buzurg,Dongri Buzurg Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,96.1,7814,250.2,89.3,4.53,2026-08-27,17
+DON-DRL-12,dongri_buzurg,Dongri Buzurg Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,95.7,13034,245.4,92.3,4.29,2026-08-25,19
+DON-CRU-13,dongri_buzurg,Dongri Buzurg Mine,Primary Ore Crusher,Metso Nordberg C130,Operational (Healthy),Low,82.5,5004,223.3,81.8,3.53,2026-07-22,53
+DON-PMP-14,dongri_buzurg,Dongri Buzurg Mine,Mine Dewatering Pump,Kirloskar High-Head Submersible,Operational (Under Watch),Moderate,87.5,12022,224.5,96.8,4.57,2026-07-09,66
+GUM-EXC-01,gumgaon,Gumgaon Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,92.9,12614,205.0,85.6,3.1,2026-07-24,51
+GUM-EXC-02,gumgaon,Gumgaon Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,86.2,6092,228.8,77.7,3.09,2026-08-17,27
+GUM-EXC-03,gumgaon,Gumgaon Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,87.2,3735,243.6,90.2,3.14,2026-07-16,59
+GUM-DMP-04,gumgaon,Gumgaon Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Under Watch),Moderate,93.8,7544,234.1,102.6,3.66,2026-07-23,52
+GUM-DMP-05,gumgaon,Gumgaon Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,88.6,5597,238.1,80.2,2.61,2026-08-14,30
+GUM-DMP-06,gumgaon,Gumgaon Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,87.2,12250,256.7,95.7,2.79,2026-08-22,22
+GUM-DMP-07,gumgaon,Gumgaon Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Under Watch),Moderate,91.7,12469,220.4,96.4,3.03,2026-07-16,59
+GUM-DMP-08,gumgaon,Gumgaon Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,87.4,11983,248.0,84.1,1.63,2026-08-17,27
+GUM-DMP-09,gumgaon,Gumgaon Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,89.3,12271,256.9,85.1,3.9,2026-07-06,69
+GUM-DRL-10,gumgaon,Gumgaon Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,95.0,6525,207.7,88.5,5.05,2026-08-21,23
+GUM-DRL-11,gumgaon,Gumgaon Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,88.8,11687,210.1,88.9,3.25,2026-07-19,56
+GUM-DRL-12,gumgaon,Gumgaon Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Under Watch),Moderate,79.1,11421,251.8,86.3,3.97,2026-07-05,70
+GUM-CRU-13,gumgaon,Gumgaon Mine,Primary Ore Crusher,Metso Nordberg C130,Operational (Healthy),Low,83.2,14160,204.1,90.2,5.19,2026-08-21,23
+GUM-PMP-14,gumgaon,Gumgaon Mine,Mine Dewatering Pump,Kirloskar High-Head Submersible,Operational (Healthy),Low,99.5,11695,195.3,73.0,3.23,2026-08-08,36
+MAN-EXC-01,mansar,Mansar Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Under Watch),Moderate,97.4,13742,241.8,99.2,1.74,2026-07-01,74
+MAN-EXC-02,mansar,Mansar Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,97.0,14302,228.3,90.3,2.05,2026-07-20,55
+MAN-EXC-03,mansar,Mansar Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,87.5,14131,232.7,82.6,3.14,2026-07-26,49
+MAN-DMP-04,mansar,Mansar Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,94.2,12434,204.5,83.2,1.95,2026-07-11,64
+MAN-DMP-05,mansar,Mansar Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,89.2,9180,212.0,92.6,3.5,2026-07-07,68
+MAN-DMP-06,mansar,Mansar Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Under Watch),Moderate,99.5,2300,208.0,82.3,5.77,2026-07-13,62
+MAN-DMP-07,mansar,Mansar Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,90.0,12992,231.5,85.8,3.83,2026-08-25,19
+MAN-DMP-08,mansar,Mansar Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Under Watch),Moderate,84.6,3915,253.8,84.8,6.08,2026-07-07,68
+MAN-DMP-09,mansar,Mansar Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,84.9,10686,247.1,91.2,3.96,2026-07-02,73
+MAN-DRL-10,mansar,Mansar Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,86.5,3709,246.1,92.0,4.05,2026-07-12,63
+MAN-DRL-11,mansar,Mansar Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,86.8,5656,215.1,84.7,5.13,2026-07-27,48
+MAN-DRL-12,mansar,Mansar Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Healthy),Low,88.5,1957,234.0,85.6,3.77,2026-08-17,27
+MAN-CRU-13,mansar,Mansar Mine,Primary Ore Crusher,Metso Nordberg C130,Operational (Healthy),Low,96.9,11864,242.5,93.0,3.93,2026-08-23,21
+MAN-PMP-14,mansar,Mansar Mine,Mine Dewatering Pump,Kirloskar High-Head Submersible,Operational (Healthy),Low,91.6,9768,251.1,77.0,3.97,2026-07-28,47
+UKW-EXC-01,ukwa,Ukwa Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Under Watch),Moderate,94.8,6784,241.3,100.6,2.78,2026-09-02,11
+UKW-EXC-02,ukwa,Ukwa Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,93.9,13067,221.7,83.8,4.48,2026-08-20,24
+UKW-EXC-03,ukwa,Ukwa Mine,Hydraulic Excavator,Komatsu PC400 / Tata Hitachi,Operational (Healthy),Low,94.4,4368,268.4,86.5,1.96,2026-08-02,42
+UKW-DMP-04,ukwa,Ukwa Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,93.6,5665,229.5,91.8,3.6,2026-08-16,28
+UKW-DMP-05,ukwa,Ukwa Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,86.5,2229,247.6,88.7,3.64,2026-07-29,46
+UKW-DMP-06,ukwa,Ukwa Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,90.1,13541,252.6,85.6,2.29,2026-08-08,36
+UKW-DMP-07,ukwa,Ukwa Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,98.8,7388,226.3,80.1,3.4,2026-07-11,64
+UKW-DMP-08,ukwa,Ukwa Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,94.2,5890,236.2,86.0,2.91,2026-07-02,73
+UKW-DMP-09,ukwa,Ukwa Mine,Heavy Dumper Fleet,BEML BH60M (60 Ton),Operational (Healthy),Low,82.5,10896,246.1,88.0,3.31,2026-09-01,12
+UKW-DRL-10,ukwa,Ukwa Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Under Watch),Moderate,99.5,2517,263.6,102.4,4.94,2026-07-28,47
+UKW-DRL-11,ukwa,Ukwa Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Operational (Under Watch),Moderate,81.8,5389,252.7,106.4,4.31,2026-08-06,38
+UKW-DRL-12,ukwa,Ukwa Mine,Rotary Drill Rig,Atlas Copco / Sandvik DI550,Maintenance Required,Critical,99.5,14148,214.8,79.8,5.7,2026-09-03,10
+UKW-CRU-13,ukwa,Ukwa Mine,Primary Ore Crusher,Metso Nordberg C130,Operational (Healthy),Low,88.0,6248,240.0,92.8,3.67,2026-08-19,25
+UKW-PMP-14,ukwa,Ukwa Mine,Mine Dewatering Pump,Kirloskar High-Head Submersible,Operational (Healthy),Low,96.2,9226,243.3,93.4,4.44,2026-08-19,25

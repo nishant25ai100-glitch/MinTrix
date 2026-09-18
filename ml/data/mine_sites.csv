@@ -1,0 +1,6 @@
+site_id,name,state,district,lat,lon,mine_type,avg_grade_pct,base_target_tpd,historical_reserve_mt,depth_range_m,excavator_count,dumper_count,drill_rig_count
+balaghat,Balaghat Mine,Madhya Pradesh,Balaghat,21.8048,80.1849,Underground,46.5,1250,18.4,"(180, 420)",6,18,4
+dongri_buzurg,Dongri Buzurg Mine,Maharashtra,Bhandara,21.554,79.6917,Opencast,41.2,1050,12.8,"(40, 160)",5,15,3
+gumgaon,Gumgaon Mine,Maharashtra,Nagpur,21.3917,79.0028,Underground,39.8,680,7.6,"(120, 310)",3,10,2
+mansar,Mansar Mine,Maharashtra,Nagpur,21.4011,79.2572,Mixed Opencast/Underground,38.5,760,8.9,"(60, 240)",4,12,3
+ukwa,Ukwa Mine,Madhya Pradesh,Balaghat,21.9667,80.4667,Underground,43.8,580,6.2,"(100, 280)",3,8,2
